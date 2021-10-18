@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dev-vmybanez
+- 👋 Hi, I’m Vince Melmar Ybañez
 - 👀 I’m interested in making apps.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on some projects.
